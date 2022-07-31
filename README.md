@@ -1,5 +1,5 @@
 # vcan-hijacking-by-python
-use socket to transfer vcan message
+use socket to send vcan message from attacker to target.
 `pip install python-can`
 
 run server.py on target, client.py on self.
